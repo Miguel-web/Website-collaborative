@@ -1,5 +1,5 @@
 body{
-    background: #fffefe;
+    background: #fdfdfd;
 }
 /* Aqui empieza CSS de Nico */
 #imagenmanosescribiendo{
@@ -32,7 +32,7 @@ body{
 .porfolio{
     margin-bottom: 20px;
 }
-h1{
+.h1denico{
     font-size: 45px;
 }
 /* Aqui termina CSS de nico */
