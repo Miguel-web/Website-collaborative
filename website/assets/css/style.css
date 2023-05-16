@@ -1,12 +1,36 @@
 body{
-    background: #BDBDBD;
+    background: #fffefe;
 }
 #imagenmanosescribiendo{
-    width: 200px;
-    height: 200px;
+    width: 350px;
+    height: 350px;
     border-radius: 50%;
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
     background-image: url(../img/2.jpg);
+}
+.card {
+    max-width: 400px;
+    width: auto;
+    border: none;
+  }
+.card-group{
+    justify-content: space-between;
+}
+.pdenico{
+    font-size: 22px;
+}
+.card-title{
+    font-size: 30px;
+    color: rgb(101, 123, 204);
+}
+.service{
+    margin-bottom: 100px;
+}
+.porfolio{
+    margin-bottom: 20px;
+}
+h1{
+    font-size: 45px;
 }
